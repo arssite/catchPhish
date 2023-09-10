@@ -1,4 +1,4 @@
-# <h1><B>catPhish</b></h1><h6><i>an embedded Software to Eliminate Phishing.</i></h6>
+# <h1><B>catPhish</b></h1><h6><i>an embedded & robust Software to Eliminate Phishing.</i></h6>
 <h2>Problem Statement</h2>
 <p><h5>Title</h5>
 Create an intelligent system using AI/ML to detect phishing domains which imitate look and feel of genuine domains
