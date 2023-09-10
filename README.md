@@ -28,7 +28,7 @@ In summary, our holistic anti-phishing solution seamlessly integrates domain aut
 
 <hr><br>
 <h2>Internal Working Flowchart</h2>
-<img src="flowchartradme.PNG">
+<img src="flowchartradme.PNG" width="690px" height="395px">
 <hr>
 
 <h2>Stack Used </h2>
