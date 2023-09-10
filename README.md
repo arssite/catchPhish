@@ -1,9 +1,14 @@
-# catPhish
-Creating an Embedded Software to Eliminate Phishing.
-Accuracy of various ML models used for Phishing detection
-
+# <h1><B>catPhish</b></h1><h6><i>an embedded Software to Eliminate Phishing.</i></h6>
+<h2>Problem Statement</h2>
+<p><h5>Title</h5>
+Create an intelligent system using AI/ML to detect phishing domains which imitate look and feel of genuine domains
+<h5>Description</h5>
+Phishing attack is the most prevalent attack technique to compromise users worldwide. Phishing links/websites are shared through number of mediums like email, SMS etc. to target users. These domains are at times host user login page that imitates the genuine target websites. Login attempts on such pages can lead to compromise of user credentials and may also download malicious payload in user computers. The objective of the problem is to identify such phishing domains from the newly registered websites based on open source databases (Example WHOIS Database). Such databases provide list of newly registered domains. The tool should be automated and harness power of AI/ML to identify phishing domains from genuine domains. It may use the following techniques: (a) Backend code / content similarity in web pages. (b) Web page image analysis (i.e. analysis between genuine and phishing site web page images; more the similarity better is the probability score of being a lookalike phishing site). The evaluation would be based on the toolÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s ability with regard to the following: (e) Probability scores of phishing domains on how close they are to the genuine domain. (f) Ability to detect new phishing domains in reasonable time. (g) Ease of use and flexibility in output formats.</p><hr>
+<p>Organization 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Technical Research Organisation,(NTRO)</p><hr>
+<p>Category	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Software</b></p><hr>
+<p>Domain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Blockchain & Cybersecurity</b></p><hr>
 <h1>Table For Accuracy & Pecision Comparison Based on Research Paper's For PHISHING DETECTION</h1>
-<p>Accuracy of various model used for Phishing detection</p>
+<p>Accuracy of various ML model used for Phishing detection</p>
 <table>
   <tr>
     <th></th>
