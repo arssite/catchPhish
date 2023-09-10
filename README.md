@@ -7,6 +7,27 @@ Phishing attack is the most prevalent attack technique to compromise users world
 <p>Organization 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Technical Research Organisation,(NTRO)</p><hr>
 <p>Category	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Software</b></p><hr>
 <p>Domain &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Blockchain & Cybersecurity</b></p><hr>
+<br>
+<h2>Solution</h2>
+<p>We are dedicated to crafting a robust solution that effectively shields our users from the pervasive threat of phishing. Our comprehensive approach revolves around the development of cutting-edge Phishing detection and avoidance software, accessible through various platforms such as a Cross-Platform Mobile App, Responsive Web App, and Browser Extension. This innovative suite of tools aims to provide a multifaceted defense against phishing attacks, ensuring the security of user data.
+
+Our journey toward enhanced security begins with a meticulous examination of the sender's domain. Leveraging the power of DMARC (Domain-based Message Authentication), we ascertain the legitimacy of the sender's domain. This initial step acts as a crucial gatekeeper, allowing only authenticated domains to pass through and communicate with users.
+
+However, our commitment to safeguarding users goes beyond domain authentication. We recognize that phishing attacks often manifest through deceptive website addresses embedded in emails or local messages. To counter this, we harness the capabilities of advanced Machine Learning Algorithms, specifically Light GBM and Random Forest. These algorithms undertake a comprehensive analysis of website addresses, factoring in a wealth of data, including WHOIS information, PhishTank Database checks, SSL (Secure Sockets Layer) Certificate validation, and other relevant thresholds. The result? A finely tuned assessment of the likelihood that a website is associated with phishing activities.
+
+Continuing our proactive stance against phishing, we maintain an extensive database of known phishing domains. The algorithms at the core of our solution meticulously cross-reference the website domain in received messages with this database. Any matches trigger an immediate alert, effectively warning users of potential dangers lurking in their digital interactions.
+
+Empowering users is central to our philosophy. We have integrated a range of user verification tools into our solution, allowing individuals to actively participate in the battle against phishing. By enabling users to verify the legitimacy of websites through comparisons of Web-Images, HTML code, and text, collected via meticulous Webscraping, we create a collaborative network that enhances the solution's accuracy and effectiveness.
+
+For those unfortunate instances where users inadvertently access phishing websites, we have engineered a guardian in the form of our PhishguardBOT. This intelligent entity takes swift action, severing the connection between the compromised website and our central database. Simultaneously, it securely retains vital user interaction information, invaluable for potential investigations or remediation efforts.
+
+Looking to the horizon, we are embarking on the development of a revolutionary Blockchain-based Authentication system. This cutting-edge solution will house a registry of legitimate senders on our secure Blockchain network. Harnessing the immutable power of blockchain technology, we will authenticate sender domains with unmatched precision and efficiency. This groundbreaking approach significantly reduces the vulnerability to successful phishing attacks.
+
+In summary, our holistic anti-phishing solution seamlessly integrates domain authentication, state-of-the-art machine learning algorithms, user verification tools, and a pioneering blockchain-based authentication system. Across multiple platforms, we empower users to navigate the digital realm with unwavering confidence, assured that their valuable data remains beyond the reach of malicious actors. Our unwavering commitment to innovation ensures that we stay ahead of evolving threats, delivering a safer online experience for all.</p>
+
+<hr><br>
+<h2>Internal Working Flowchart</h2>
+
 <h1>Table For Accuracy & Pecision Comparison Based on Research Paper's For PHISHING DETECTION</h1>
 <p>Accuracy of various ML model used for Phishing detection</p>
 <table>
