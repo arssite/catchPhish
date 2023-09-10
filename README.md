@@ -28,7 +28,7 @@ In summary, our holistic anti-phishing solution seamlessly integrates domain aut
 
 <hr><br>
 <h2>Internal Working Flowchart</h2>
-![flowchartradme](https://github.com/arssite/catPhish/flowchartradme.PNG)
+<img src="flowchartradme.PNG">
 
 <h1>Table For Accuracy & Pecision Comparison Based on Research Paper's For PHISHING DETECTION</h1>
 <p>Accuracy of various ML model used for Phishing detection</p>
