@@ -1,4 +1,4 @@
-# <h1><B>catPhish</b></h1><h6><i>an embedded & robust Software to Eliminate Phishing.</i></h6>
+# <h1><B>catchPhish</b></h1><h6><i>an embedded & robust Software to Eliminate Phishing.</i></h6>
 live @ - https://phishing-website-detection-production.up.railway.app/api/detect2/
 <h2>Problem Statement</h2>
 <p><h5>Title</h5>
